@@ -1,0 +1,6 @@
+{
+  "model_path": "yolov8n.pt",
+  "video_source": 0,
+  "run_duration": null,
+  "max_frames": null
+}
